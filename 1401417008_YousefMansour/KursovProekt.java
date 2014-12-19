@@ -1,4 +1,3 @@
-package KursovProekt;
 import java.util.*;
 
 public class KursovProekt {
@@ -14,8 +13,7 @@ public class KursovProekt {
         System.out.println(sum());
                
         fillArr();
-        findString();
-        
+        findString();      
     }
     
     //Зад. 4 - а)   

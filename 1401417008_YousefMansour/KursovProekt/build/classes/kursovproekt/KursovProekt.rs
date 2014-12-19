@@ -1,2 +1,0 @@
-KursovProekt.KursovProekt
-KursovProekt.Main
